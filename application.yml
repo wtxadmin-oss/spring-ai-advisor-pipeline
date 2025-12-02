@@ -1,0 +1,10 @@
+debug: true
+logging:
+  level:
+    com.example.demo: DEBUG
+spring:
+  ai:
+    deepseek:
+      chat:
+        api-key: ${Api_Key}
+
