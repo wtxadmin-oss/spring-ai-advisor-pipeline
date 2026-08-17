@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>demo</artifactId>
+	<artifactId>spring-ai-advisor-pipeline</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
-	<description>Demo project for Spring Boot</description>
+	<name>Spring AI Advisor Pipeline</name>
+	<description>Ordered request transformation and observability with Spring AI Advisors</description>
 	<url/>
 	<licenses>
 		<license/>
